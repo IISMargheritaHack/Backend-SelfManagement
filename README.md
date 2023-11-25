@@ -1,2 +1,2 @@
 # Backend-SelfManagement
-Backend  write in Django for a school site 
+Backend  write in Node for a school site 
