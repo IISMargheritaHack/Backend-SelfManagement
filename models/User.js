@@ -15,6 +15,10 @@ const UserSchema = new mongoose.Schema({
         type: Boolean,
         default: false
     },
+    iscrizioni: {
+        type: Number,
+        default: 0
+    },
     classe: {
         type: String,
         default: ""
